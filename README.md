@@ -1,2 +1,4 @@
 # demo
-this is my first git repository.auther Antima Ydava
+this is my first git repository.
+<br>
+auther- Antima Ydava
